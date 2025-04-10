@@ -38,7 +38,7 @@ This app fetches real-time weather data from an API and displays:
 - Using **Ktor** to make asynchronous API calls
 - Structuring app architecture with clean principles
 - Implementing **Koin** for DI in a modular way
-- Managing state with `StateFlow` or `ViewModel`
+- Managing state with `ViewModel`
 - Error handling and loading UI states
 
 ---
